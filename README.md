@@ -1,7 +1,7 @@
 # 🧠 Open Liberation Lab
 
-> **An open-source research lab developing technologies to free humans from hard, dangerous, and survival-driven labor.**\n
-> Một phòng thí nghiệm nghiên cứu mã nguồn mở phát triển các công nghệ nhằm giải phóng con người khỏi lao động nặng nhọc, nguy hiểm và mang tính mưu sinh.
+> **An open-source research lab developing technologies to free humans from hard, dangerous, and survival-driven labor.**
+>_ Một phòng thí nghiệm nghiên cứu mã nguồn mở phát triển các công nghệ nhằm giải phóng con người khỏi lao động nặng nhọc, nguy hiểm và mang tính mưu sinh._
 
 ---
 
