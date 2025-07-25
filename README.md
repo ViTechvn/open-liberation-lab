@@ -67,8 +67,8 @@ Bất kỳ ai cũng có thể đóng góp! Chúng tôi hoan nghênh:
 
 ## 💬 Cộng đồng
 
-- 📩 **Liên hệ / Đăng ký đóng góp:** [vitechvn1@gmail.com]
-- 💬 **Thảo luận / Góp ý:** [(https://www.facebook.com/groups/2807537419432817)]  
+- 📩 **Liên hệ, thắc mắc:** [vitechvn1@gmail.com]
+- 💬 **Thảo luận / Góp ý:** [(https://www.facebook.com/groups/2807537419432817)]  (Open Liberation Lab)
 
 ---
 
