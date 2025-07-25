@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Giai đoạn 2 – An toàn Lao động & Tự động hóa Giải phóng (song song 2025–2027)
+## 🧠 Giai đoạn 2 – An toàn lao động & Tự động hóa giải phóng con người (song song 2025–2027)
 
 ### Mục tiêu
 - Tìm giải pháp thay thế con người khỏi những công việc cần thiết nhưng nguy hiểm, nặng nhọc như: thợ lắp đặt và sửa chữa điện, thợ mỏ, lực lượng cứu nạn cứu hộ, công nhân xây dựng cầu đường hay nhà cao tầng, nhân viên y tế tuyến đầu tiếp xúc dịch bệnh,...
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔋 Giai đoạn 3 – Năng lượng Bền vững cho Tự động hóa (song song 2025–2028)
+## 🔋 Giai đoạn 3 – Năng lượng bền vững (song song 2025–2028)
 
 ### Mục tiêu
 - Tìm và chia sẻ các mô hình năng lượng sạch, đa quy mô.
