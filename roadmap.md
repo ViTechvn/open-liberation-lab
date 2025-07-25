@@ -13,7 +13,7 @@
 ### Ưu tiên kỹ thuật:
 - [ ] Mô hình canh tác hữu cơ phù hợp với khí hậu Việt Nam
 - [ ] Thiết kế hệ thống cảm biến & điều khiển tự động (tưới tiêu, ánh sáng, nhiệt độ)
-- [ ] Robot chăm sóc cây trồng (phun, làm cỏ, gieo trồng, thu hoạch)
+- [ ] Robot chăm sóc cây trồng (làm cỏ, gieo trồng, thu hoạch...)
 - [ ] Bộ khung phần mềm & phần cứng mở, dễ nhân rộng
 
 ---
