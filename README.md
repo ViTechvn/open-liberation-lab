@@ -22,7 +22,7 @@ Người tham gia và đóng góp cần tuân thủ luật pháp hiện hành t�
 
 ## 🌱 Mục tiêu (Goals)
 
-Open Liberation Lab là một **phòng nghiên cứu mã nguồn mở** với sứ mệnh:
+Open Liberation Lab là một **không gian nghiên cứu mã nguồn mở** với sứ mệnh:
 
 - **Giải phóng con người** khỏi lao động cực nhọc, nguy hiểm và mưu sinh
 - Xây dựng và chia sẻ các giải pháp công nghệ phục vụ:
@@ -99,7 +99,7 @@ Toàn bộ nội dung được chia sẻ dưới giấy phép:
 
 ## 🙌 Vì một tương lai tự do hơn
 
-Chúng tôi tin rằng nếu con người không còn bị bó buộc vào lao động nặng nhọc để tồn tại, chúng ta có thể sống, học tập, sáng tạo và chăm sóc lẫn nhau — đúng như tiềm năng vốn có của loài người.
+Chúng tôi tin rằng nếu con người không còn bị bó buộc vào lao động để tồn tại, chúng ta có thể sống, học tập, sáng tạo và chăm sóc lẫn nhau — đúng như tiềm năng vốn có của loài người.
 
 Hãy cùng góp sức xây dựng nền tảng tri thức này 💡
 
