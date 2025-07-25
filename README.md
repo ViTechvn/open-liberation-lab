@@ -5,7 +5,7 @@
 ---
 
 ## 📜 Lưu ý pháp lý
-Dự án Open Liberation Lab được xây dựng với mục đích hoàn toàn học thuật, cộng đồng và phi lợi nhuận. Mang tinh thần tự nguyện cống hiến. Tất cả nội dung trong repo này:
+Dự án Open Liberation Lab được xây dựng với mục đích hoàn toàn học thuật, cộng đồng và phi lợi nhuận, dựa trên tinh thần tự nguyện cống hiến. Tất cả nội dung trong repo này:
 
 Không đại diện cho bất kỳ tổ chức, chính phủ hay đảng phái nào.
 
