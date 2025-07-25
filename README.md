@@ -91,7 +91,7 @@ Toàn bộ nội dung được chia sẻ dưới giấy phép:
 
 - Thiết kế mở, dễ chế tạo – dễ sửa chữa – dễ áp dụng
 
-## 🔧 Các hướng nghiên cứu về An toàn lao động và Năng lượng bền vững vẫn luôn được hoan nghênh.
+**🔧 Các hướng nghiên cứu về An toàn lao động và Năng lượng bền vững vẫn luôn được hoan nghênh.**
 
 ---
 
