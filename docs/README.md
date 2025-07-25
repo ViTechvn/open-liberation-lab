@@ -14,7 +14,7 @@ Không mang tính vận động chính sách hoặc kêu gọi chính trị.
 
 Không liên quan đến các hoạt động tài chính, hoặc thương mại.
 
-Việc đề cập đến các khái niệm như tự động hóa lao động, thu nhập cơ bản vô điều kiện (UBI), hay giải phóng con người khỏi lao động cưỡng bức chỉ mang tính lý luận nghiên cứu và định hướng tương lai, theo tinh thần mã nguồn mở và sáng tạo khoa học.
+Việc đề cập đến các khái niệm như tự động hóa lao động, thu nhập cơ bản vô điều kiện (UBI), hay giải phóng con người khỏi lao động vì mưu sinh chỉ mang tính lý luận nghiên cứu và định hướng tương lai, theo tinh thần mã nguồn mở và sáng tạo khoa học.
 
 Người tham gia và đóng góp cần tuân thủ luật pháp hiện hành tại Việt Nam, cũng như tôn trọng quyền sở hữu trí tuệ, bảo mật thông tin và nguyên tắc minh bạch của cộng đồng.
 
