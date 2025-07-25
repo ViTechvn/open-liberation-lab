@@ -28,7 +28,7 @@
 ### Gợi ý hướng phát triển:
 - [ ] Thiết kế robot công nghiệp/công trình đơn giản giá rẻ
 - [ ] Phân tích dữ liệu tai nạn lao động & tạo hệ thống cảnh báo
-- [ ] Giao diện điều khiển từ xa dành cho người không chuyên
+- [ ] Giao diện điều khiển, giám sát từ xa
 - [ ] ...
 
 ---
