@@ -26,7 +26,7 @@ Chúng tôi trân trọng mọi đóng góp, từ ý tưởng nhỏ đến nghi�
 ---
 
 ### 🛠 3. Đề xuất ý tưởng hoặc phản biện học thuật
-- Gửi ý tưởng cần đề xuất, thảo luận vào nhóm Facebook: [(https://www.facebook.com/groups/2807537419432817)]
+- Gửi ý tưởng cần đề xuất, thảo luận vào nhóm Facebook: [(https://www.facebook.com/groups/675709305633911)]
 - Đưa ra vấn đề kỹ thuật, triết lý, chính sách liên quan – mọi góc nhìn được lắng nghe
 
 ---
