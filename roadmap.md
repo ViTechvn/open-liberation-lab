@@ -15,6 +15,7 @@
 - [ ] Thiết kế hệ thống cảm biến & điều khiển tự động (tưới tiêu, ánh sáng, nhiệt độ)
 - [ ] Robot chăm sóc cây trồng (làm cỏ, gieo trồng, thu hoạch...)
 - [ ] Bộ khung phần mềm & phần cứng mở, dễ nhân rộng
+- [ ] ...
 
 ---
 
@@ -28,6 +29,7 @@
 - [ ] Thiết kế robot công nghiệp/công trình đơn giản giá rẻ
 - [ ] Phân tích dữ liệu tai nạn lao động & tạo hệ thống cảnh báo
 - [ ] Giao diện điều khiển từ xa dành cho người không chuyên
+- [ ] ...
 
 ---
 
@@ -36,19 +38,19 @@
 ### Mục tiêu
 - Tìm và chia sẻ các mô hình năng lượng sạch, đa quy mô.
 - Đề xuất các giải pháp giúp tăng hiệu suất, giảm chi phí và quản lý rủi ro của các hệ thống năng lượng sạch, bền vững.
-- Hướng tới nông trại hoặc đơn vị lao động tự vận hành bằng năng lượng tái tạo.
 
 ### Gợi ý hướng phát triển:
 - [ ] Mô-đun năng lượng mặt trời/biogas mini tích hợp với thiết bị tự động
 - [ ] Hệ thống lưu trữ năng lượng thấp chi phí
 - [ ] Tối ưu tiêu thụ năng lượng cho robot và cảm biến
+- [ ] ...
 
 ---
 
 ## 🏛️ Giai đoạn 4 – Chính sách & Ứng dụng xã hội
 
 ### Mục tiêu dài hạn
-- Tổng hợp kết quả nghiên cứu, thử nghiệm, hoạt động để đề xuất mô hình **thu nhập cơ bản phổ quát**.
+- Tổng hợp kết quả nghiên cứu, thử nghiệm để đề xuất mô hình **thu nhập cơ bản phổ quát**.
 - Dựa trên giả định: nếu các nhu cầu cơ bản được đáp ứng thông qua hệ thống tự động và năng lượng bền vững, thì việc bảo đảm thu nhập cơ bản có thể trở thành một lựa chọn khả thi, nhằm thúc đẩy sáng tạo, giáo dục, và đời sống tinh thần của xã hội.
 ---
 
