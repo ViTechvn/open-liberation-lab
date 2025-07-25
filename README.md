@@ -75,7 +75,7 @@ Bất kỳ ai cũng có thể đóng góp! Chúng tôi hoan nghênh:
 
 Toàn bộ nội dung được chia sẻ dưới giấy phép:
 
-- 📄 **Mã nguồn:** [MIT License](./LICENSE)  
+- 📄 **Mã nguồn:** [MIT License](./LICENSE.md)  
 - 📚 **Tài liệu, thiết kế:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
