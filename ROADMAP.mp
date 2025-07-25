@@ -11,17 +11,17 @@
 - Thúc đẩy cộng đồng nghiên cứu cùng đóng góp giải pháp từ cấp hộ gia đình đến hợp tác xã, đến quy mô doanh nghiệp lớn.
 
 ### Ưu tiên kỹ thuật:
+- [ ] Mô hình canh tác hữu cơ phù hợp với khí hậu Việt Nam
 - [ ] Thiết kế hệ thống cảm biến & điều khiển tự động (tưới tiêu, ánh sáng, nhiệt độ)
 - [ ] Robot chăm sóc cây trồng (phun, làm cỏ, gieo trồng, thu hoạch)
-- [ ] Mô hình canh tác hữu cơ phù hợp với khí hậu Việt Nam
 - [ ] Bộ khung phần mềm & phần cứng mở, dễ nhân rộng
 
 ---
 
-## 🧠 Giai đoạn 2 – An toàn Lao động & Tự động hóa Giải phóng (2026–2027)
+## 🧠 Giai đoạn 2 – An toàn Lao động & Tự động hóa Giải phóng (song song 2025–2027)
 
 ### Mục tiêu
-- Tìm giải pháp thay thế con người khỏi những công việc nguy hiểm, nặng nhọc hoặc lặp đi lặp lại.
+- Tìm giải pháp thay thế con người khỏi những công việc cần thiết nhưng nguy hiểm, nặng nhọc, ví dụ: Lắp đặt và sửa chữa điện, đào mỏ, cứu nạn cứu hộ, xây dựng, y tế tuyến đầu tiếp xúc dịch bênh,...
 - Nghiên cứu các ứng dụng robot, exosuit, cảm biến cảnh báo, AI giám sát an toàn...
 
 ### Gợi ý hướng phát triển:
@@ -34,7 +34,8 @@
 ## 🔋 Giai đoạn 3 – Năng lượng Bền vững cho Tự động hóa (song song 2025–2028)
 
 ### Mục tiêu
-- Tìm và chia sẻ các mô hình năng lượng sạch, độc lập quy mô nhỏ cho các hệ thống tự động.
+- Tìm và chia sẻ các mô hình năng lượng sạch, đa quy mô.
+- Đề xuất các giải pháp giúp tăng hiệu suất, giảm chi phí và quản lý rủi ro của các hệ thống năng lượng sạch, bền vững.
 - Hướng tới nông trại hoặc đơn vị lao động tự vận hành bằng năng lượng tái tạo.
 
 ### Gợi ý hướng phát triển:
@@ -47,9 +48,8 @@
 ## 🏛️ Giai đoạn 4 – Chính sách & Ứng dụng xã hội
 
 ### Mục tiêu dài hạn
-- Tổng hợp kết quả nghiên cứu, thử nghiệm,hoạt động để đề xuất mô hình **thu nhập cơ bản phổ quát**.
-- Dựa trên giả định: khi công nghệ có thể giải phóng phần lớn lao động bắt buộc, xã hội có thể tổ chức lại phân phối giá trị theo cách công bằng hơn.
-
+- Tổng hợp kết quả nghiên cứu, thử nghiệm, hoạt động để đề xuất mô hình **thu nhập cơ bản phổ quát**.
+- Dựa trên giả định: nếu các nhu cầu cơ bản được đáp ứng thông qua hệ thống tự động và năng lượng bền vững, thì việc bảo đảm thu nhập cơ bản có thể trở thành một lựa chọn khả thi, nhằm thúc đẩy sáng tạo, giáo dục, và đời sống tinh thần của xã hội.
 ---
 
 ## 💡 Gợi ý Đóng góp
@@ -58,8 +58,6 @@ Mọi cá nhân/nhóm đều có thể:
 
 - Đề xuất hướng nghiên cứu mới
 - Gửi mã nguồn, mô hình, sơ đồ thiết kế hoặc tài liệu
-- Góp phần vào wiki, tài liệu hoá, review mô hình
-- Tổ chức thử nghiệm thực tế hoặc báo cáo kết quả thực hành
 
 > 📬 Xem [CONTRIBUTING.md](./CONTRIBUTING.md) để biết cách gửi đóng góp.
 
