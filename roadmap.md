@@ -10,8 +10,8 @@
 - Xây dựng nền tảng kiến thức và mô hình mã nguồn mở về nông trại tự động hóa hữu cơ, ưu tiên cây lương thực thiết yếu (lúa, bắp, sắn...).
 - Thúc đẩy cộng đồng nghiên cứu cùng đóng góp giải pháp từ cấp hộ gia đình đến hợp tác xã, đến quy mô doanh nghiệp lớn.
 
-### Ưu tiên kỹ thuật:
-- [ ] Mô hình canh tác hữu cơ phù hợp với khí hậu Việt Nam
+### Gợi ý hướng phát triển:
+- [ ] Mô hình canh tác hữu cơ phù hợp với khí hậu, thổ nhưỡng Việt Nam
 - [ ] Thiết kế hệ thống cảm biến & điều khiển tự động (tưới tiêu, ánh sáng, nhiệt độ)
 - [ ] Robot chăm sóc cây trồng (làm cỏ, gieo trồng, thu hoạch...)
 - [ ] Bộ khung phần mềm & phần cứng mở, dễ nhân rộng
