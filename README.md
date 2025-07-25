@@ -24,7 +24,7 @@ Người tham gia và đóng góp cần tuân thủ luật pháp hiện hành t�
 
 Open Liberation Lab là một **phòng nghiên cứu mã nguồn mở** với sứ mệnh:
 
-- **Giải phóng con người** khỏi lao động cực nhọc, nguy hiểm và mưu sinh bắt buộc
+- **Giải phóng con người** khỏi lao động cực nhọc, nguy hiểm và mưu sinh
 - Xây dựng và chia sẻ các giải pháp công nghệ phục vụ:
   - 🌾 **Tự động hóa nông trại hữu cơ** (ưu tiên cây lương thực như lúa, bắp, sắn…)
   - 🛡️ **An toàn lao động** (thiết bị thay thế người làm việc trong điều kiện nguy hiểm)
