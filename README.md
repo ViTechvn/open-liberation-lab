@@ -28,7 +28,7 @@ Open Liberation Lab là một **phòng nghiên cứu mã nguồn mở** với s�
 - Xây dựng và chia sẻ các giải pháp công nghệ phục vụ:
   - 🌾 **Tự động hóa nông trại hữu cơ** (ưu tiên cây lương thực như lúa, bắp, sắn…)
   - 🛡️ **An toàn lao động** (thiết bị thay thế người làm việc trong điều kiện nguy hiểm)
-  - ⚡ **Năng lượng bền vững** (giải pháp năng lượng phục vụ cho tự động hóa độc lập, thân thiện môi trường)
+  - ⚡ **Năng lượng bền vững** (giải pháp năng lượng góp phần vào mục tiêu độc lập năng lượng của cộng đồng và quốc gia.)
 
 **Đây là một nền tảng mở** để mọi người cùng đóng góp tri thức, mô hình, thiết kế, mã nguồn, bài viết,... hướng tới một xã hội nơi con người không còn bị ràng buộc bởi mưu sinh.
 
@@ -42,7 +42,7 @@ Repo được chia làm 3 trụ cột chính, kèm theo các thư mục bổ tr�
 
 📁 labour-safety/	             **Công nghệ thay thế lao động nguy hiểm**
 
-📁 sustainable-energy/	       **Năng lượng bền vững phục vụ tự động hóa**
+📁 sustainable-energy/	       **Năng lượng sạch bền vững**
 
 📁 contributions/	(Tuỳ chọn)   **Đóng góp chưa phân loại rõ**
 
