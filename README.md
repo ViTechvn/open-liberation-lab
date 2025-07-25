@@ -39,15 +39,15 @@ Open Liberation Lab là một **phòng nghiên cứu mã nguồn mở** với s�
 
 Repo được chia làm 3 trụ cột chính, kèm theo các thư mục bổ trợ:
 
-📁 agriculture-automation/	   Nghiên cứu nông nghiệp hữu cơ tự động hóa
+📁 agriculture-automation/	   **Nghiên cứu nông nghiệp hữu cơ tự động hóa**
 
-📁 labour-safety/	             Công nghệ thay thế lao động nguy hiểm
+📁 labour-safety/	             **Công nghệ thay thế lao động nguy hiểm**
 
-📁 sustainable-energy/	       Năng lượng bền vững phục vụ tự động hóa
+📁 sustainable-energy/	       **Năng lượng bền vững phục vụ tự động hóa**
 
-📁 docs/	                     Đây là nơi dành cho các tài liệu nền tảng, giải thích, hoặc hướng dẫn kỹ thuật phục vụ cộng đồng
+📁 docs/	                     **Đây là nơi dành cho các tài liệu nền tảng, giải thích, hoặc hướng dẫn kỹ thuật phục vụ cộng đồng**
 
-📁 contributions/	(Tuỳ chọn)   Đóng góp chưa phân loại rõ
+📁 contributions/	(Tuỳ chọn)   **Đóng góp chưa phân loại rõ**
 
 ---
 
