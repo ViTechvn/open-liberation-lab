@@ -27,7 +27,7 @@ Chúng tôi trân trọng mọi đóng góp, từ ý tưởng nhỏ đến nghi�
 
 ### 🛠 3. Đề xuất ý tưởng hoặc phản biện học thuật
 - Gửi ý tưởng cần đề xuất, thảo luận vào nhóm Facebook: [(www.facebook.com/groups/open.liberation.lab/)]
-- Đưa ra vấn đề kỹ thuật, triết lý, chính sách liên quan – mọi góc nhìn được lắng nghe
+- Đưa ra vấn đề kỹ thuật, triết lý, chính sách liên quan – mọi góc nhìn đều được lắng nghe
 
 ---
 
