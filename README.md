@@ -45,7 +45,7 @@ Repo được chia làm 3 trụ cột chính, kèm theo các thư mục bổ tr�
 
 📁 sustainable-energy/	       Năng lượng bền vững phục vụ tự động hóa
 
-📁 docs/	                     Tài liệu lý thuyết, bài viết chuyên sâu
+📁 docs/	                     Đây là nơi dành cho các tài liệu nền tảng, giải thích, hoặc hướng dẫn kỹ thuật phục vụ cộng đồng
 
 📁 contributions/	(Tuỳ chọn)   Đóng góp chưa phân loại rõ
 
