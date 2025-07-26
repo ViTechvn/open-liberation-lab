@@ -1,115 +1,102 @@
-# 📌 Hướng phát triển: Nông nghiệp Hữu cơ Tự động hóa
+# 📌 Hướng nghiên cứu: Nông nghiệp Hữu cơ Tự động hóa
+
+---
 
 ## 🎯 Mục tiêu
-Phát triển một hệ sinh thái mở gồm các thiết bị, quy trình và mô hình sản xuất **nông nghiệp hữu cơ đích thực**, kết hợp với **tự động hóa chọn lọc** nhằm:
-- Giảm gánh nặng lao động thủ công
-- Tăng độ chính xác, năng suất và hiệu quả tài nguyên
-- Duy trì các nguyên tắc cốt lõi của hữu cơ: **không hóa chất**, **không can thiệp thô bạo**, **tuần hoàn sinh học**
+
+Phát triển hệ sinh thái mã nguồn mở gồm thiết bị, mô hình và quy trình **nông nghiệp hữu cơ đích thực**, tích hợp **tự động hóa chọn lọc**, nhằm:
+
+- Giảm gánh nặng lao động thủ công  
+- Tăng độ chính xác, năng suất, hiệu quả tài nguyên  
+- Giữ nguyên tắc cốt lõi của hữu cơ: **không hóa chất**, **không can thiệp thô bạo**, **tuần hoàn sinh học**
 
 ---
 
-## 🧩 Các trục phát triển chính
+## 🧩 Các hướng nghiên cứu chính
 
-### 1. 🌱 Trồng trọt hữu cơ + tự động hóa
+### I. Ưu tiên tại Việt Nam
 
-#### a. Làm đất
-- Thiết kế công cụ hoặc robot nhỏ xới đất nhẹ nhàng, không làm tổn thương cấu trúc vi sinh
-- Cảm biến đo độ ẩm, độ tơi xốp để xác định thời điểm canh tác phù hợp
-
-#### b. Gieo trồng
-- Máy gieo hạt cơ học hoặc điện, chính xác từng hạt, giảm lãng phí
-- Cài đặt khoảng cách, độ sâu, loại cây trồng khác nhau tùy mùa vụ
-
-#### c. Tưới tiêu
-- Hệ thống tưới nhỏ giọt điều khiển bởi cảm biến độ ẩm đất
-- Điều khiển qua vi điều khiển, nguồn điện từ năng lượng mặt trời
-- Tưới "nhẹ nhàng", hạn chế dòng mạnh gây xói mòn hoặc úng cây
-
-#### d. Bón phân hữu cơ
-- Chỉ sử dụng phân ủ tại chỗ (compost, dịch chuối, đậu nành lên men…)
-- Hệ thống phân phối nhỏ giọt tự động, định kỳ theo lịch hoặc theo dữ liệu cảm biến
-
-#### e. Quản lý sâu bệnh - **Không phun xịt**
-- Ưu tiên **thiết kế sinh thái học** thay vì can thiệp hóa học, kể cả “sinh học”
-- Tích hợp các giải pháp:
-  - Trồng xen canh và cây dẫn dụ
-  - Bẫy côn trùng vật lý (pheromone, bẫy dính, ánh sáng)
-  - Tạo môi trường sống cho thiên địch (bọ rùa, kiến, ong ký sinh…)
-  - Giám sát hình ảnh bằng camera, nhận diện dấu hiệu bệnh để cảnh báo — **không can thiệp tràn lan**
+| Hướng nghiên cứu                      | Đặc điểm thực tế Việt Nam                                          |
+|---------------------------------------|--------------------------------------------------------------------|
+| Làm đất không xâm hại cấu trúc đất    | Đất Việt Nam thường bị nén chặt do canh tác hóa học               |
+| Hệ thống tưới nhỏ giọt tiết kiệm nước | Khí hậu biến đổi, hạn mặn và thiếu nước tưới gia tăng             |
+| Ghi nhật ký canh tác bằng QR/IoT      | Đáp ứng xu hướng truy xuất nguồn gốc, đặc biệt trong xuất khẩu    |
+| Ủ phân compost tại chỗ                | Lượng rác nông nghiệp lớn, dễ lên men, nhưng ít hệ thống ủ tối ưu |
+| Quản lý sâu bệnh sinh thái            | Việt Nam có đa dạng thiên địch, nhưng phụ thuộc vào thuốc trừ sâu |
 
 ---
 
-### 2. 🧪 Ghi nhận và truy xuất minh bạch
+### II. Học thuật & quốc tế (2025)
 
-- Gắn mã QR/NFC vào từng luống hoặc từng cây nhóm
-- Theo dõi: độ ẩm, lần tưới, loại phân đã dùng, nhiệt độ, ánh sáng, biểu hiện bệnh…
-- Ghi lại nhật ký chăm sóc cây, để người tiêu dùng truy xuất nguồn gốc
+| Hướng nghiên cứu                              | Mô tả & tổ chức thực hiện                                                                                   |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Robot vi mô làm đất không phá vỡ vi sinh      | Thiết kế siêu nhẹ, cảm biến vi mô, giữ nguyên cấu trúc đất – ETH Zurich, Wageningen UR                      |
+| AI giám sát bệnh hại qua camera và học sâu    | Dùng học sâu phân tích hình ảnh hiện trường – Google AI, Kyoto Univ., ICRAF                                 |
+| Soil-Plant Co-Design                          | Thiết kế cây trồng & đất dựa trên mô hình hệ vi sinh vật – UC Davis, Chinese Academy of Sciences            |
+| Chuẩn hóa dữ liệu mở nông nghiệp              | API mở, giao thức trao đổi giữa thiết bị – AgStack (Linux Foundation), OpenAg                              |
+| Nông nghiệp tự vận hành (agroecology + AI)    | Tự động hóa toàn diện trên nền triết lý canh tác sinh thái – MIT Media Lab, INRAE                           |
+| Cảm biến đất chạy bằng vi sinh (microbial BEC)| Không dùng pin, tạo điện từ hệ vi sinh đất – TU Delft, NTU Singapore                                        |
 
----
-
-### 3. 🔁 Tái chế và tuần hoàn nội bộ
-
-- Thiết kế hệ thống ủ phân compost khép kín
-- Tái sử dụng nước mưa, nước thải đã lọc
-- Tận dụng phụ phẩm cây trồng làm lớp phủ đất (mulch), giữ ẩm và ngăn cỏ
-
-**Bạn hoàn toàn có thể đề xuất các hướng nghiên cứu mới**
+**Bạn hoàn toàn có thể đề xuất thêm hướng nghiên cứu mới, phù hợp với mục tiêu chung. Chúng tôi rất hoan nghênh**
 
 ---
 
-## 🛠️ Công nghệ đề xuất
+## 📦 Mô-đun đề xuất (mã nguồn mở)
 
-| Hạng mục             | Gợi ý công nghệ                  |
-|----------------------|----------------------------------|
-| Cảm biến môi trường  | Soil Moisture (capacitive), DHT22 |
-| Vi điều khiển         | ESP32, Arduino, Raspberry Pi     |
-| Lập trình điều khiển | Python + MQTT + Node-RED         |
-| Giao diện theo dõi   | Web dashboard (Next.js, Grafana) |
-| Năng lượng            | Solar panel + pin lưu trữ        |
-| Camera giám sát      | ESP-CAM, Jetson Nano, OpenCV     |
+| Module                      | Mức độ  | Mô tả ngắn gọn                                      |
+|----------------------------|---------|-----------------------------------------------------|
+| `auto-seeder`              | ★★☆☆☆   | Gieo hạt chính xác, giảm hao hụt                    |
+| `soil-moisture-iot`        | ★☆☆☆☆   | Cảm biến độ ẩm gửi dữ liệu về server                |
+| `compost-system`           | ★★☆☆☆   | Ủ phân tại chỗ, theo dõi nhiệt & độ ẩm              |
+| `natural-irrigation`       | ★★☆☆☆   | Hệ thống tưới nhỏ giọt điều khiển tự động           |
+| `insect-monitoring-vision` | ★★★★☆   | Nhận dạng côn trùng bằng camera + học sâu           |
+| `field-journal-qr`         | ★★☆☆☆   | Nhật ký QR/NFC tích hợp điện thoại nông dân         |
+| `bio-sensor-batteryless`   | ★★★★☆   | Cảm biến đất dùng năng lượng từ vi sinh vật         |
+| `root-zone-ai-optimize`    | ★★★☆☆   | Theo dõi vùng rễ, tối ưu phân bổ nước và dinh dưỡng |
 
 ---
 
-## 📦 Các module đề xuất
+## 🛠️ Công nghệ gợi ý
 
-| Tên module                         | Mức độ | Mô tả sơ lược |
-|------------------------------------|--------|---------------|
-| `auto-seeder`                      | ★★☆☆☆ | Gieo hạt theo hàng, khoảng cách cố định |
-| `soil-moisture-iot`                | ★☆☆☆☆ | Gửi dữ liệu độ ẩm đất về máy chủ |
-| `compost-system`                   | ★★☆☆☆ | Hệ thống ủ phân tự động trộn & theo dõi nhiệt độ |
-| `natural-irrigation`               | ★★☆☆☆ | Hệ tưới nhỏ giọt chạy năng lượng mặt trời |
-| `insect-monitoring-vision`         | ★★★★☆ | Giám sát sâu bệnh bằng camera, AI, không can thiệp hóa chất |
-| `field-journal-qr`                 | ★★☆☆☆ | Ghi nhật ký canh tác và truy xuất bằng QR |
+| Hạng mục              | Gợi ý công nghệ                             |
+|-----------------------|---------------------------------------------|
+| Cảm biến môi trường   | Soil Moisture, DHT22, CO2/CH4 sensor        |
+| Vi điều khiển         | ESP32, Raspberry Pi, Jetson Nano            |
+| Điều khiển & truyền   | MQTT, Node-RED, Python, TinyML              |
+| Nhận diện hình ảnh    | OpenCV, YOLOv8, MediaPipe, TensorFlow Lite |
+| Lưu trữ năng lượng     | Tấm năng lượng mặt trời, pin LiFePO4        |
+| Dashboard dữ liệu     | Next.js, Grafana, Supabase/Firebase         |
 
 ---
 
 ## 🧠 Triết lý thiết kế
 
-> **Tự động hóa là công cụ – không phải lý do để làm sai nguyên tắc hữu cơ.**
+> **"Tự động hóa là công cụ – không phải lý do để làm sai nguyên tắc hữu cơ."**
 
-- Mỗi mô-đun đều phải **tôn trọng vi sinh vật bản địa**
-- Hạn chế đến mức thấp nhất việc can thiệp hóa học hoặc sinh học kiểu công nghiệp
-- Chỉ hỗ trợ những thao tác mà con người mệt mỏi hoặc kém chính xác
-
----
-
-## 🤝 Cách đóng góp
-
-- Viết code cho hệ thống cảm biến hoặc dashboard
-- Thiết kế robot nhẹ làm đất hoặc gieo hạt
-- Xây dựng hệ thống nhật ký trồng trọt, có truy xuất
-- Viết tài liệu, chuyển đề tài nghiên cứu cũ thành mô-đun mở
-- Tái tạo các mô hình DIY đơn giản cho nông dân dễ dùng
+- Ưu tiên bảo vệ hệ sinh vật đất  
+- Không dùng hóa chất, kể cả "hữu cơ công nghiệp"  
+- Chỉ can thiệp khi con người không thể làm chính xác  
+- Dễ bảo trì, dễ nhân rộng, dễ sửa tại hiện trường
 
 ---
 
-## 🌿 Tầm nhìn
+## 🤝 Cách tham gia đóng góp
 
-- Xây dựng **vườn mẫu mã nguồn mở** áp dụng tự động hóa hữu cơ
-- Xuất bản tài liệu học tập tự học – không cần trường lớp
-- Hỗ trợ cộng đồng nông dân chuyển đổi từ hóa học sang hữu cơ từng bước
+- Viết mã hệ thống cảm biến, robot, camera, dashboard  
+- Thiết kế robot nhỏ, nhẹ, thân thiện với đất  
+- Chuyển giao nghiên cứu học thuật thành mã nguồn mở  
+- Hướng dẫn DIY để phổ cập mô-đun cho nông dân  
+- Mở đề tài tốt nghiệp, seminar về triết lý thiết kế này
+
+---
+
+## 🌿 Tầm nhìn dài hạn
+
+- Xây dựng **vườn mẫu mã nguồn mở** 
+- Phát hành **học liệu mở toàn diện** – giúp những ai quan tâm, muốn nghiên cứu và ứng dụng thực tế có thể học tại nhà, không phụ thuộc trường lớp  
+- Hình thành mạng lưới nông dân tự học – tự do, bền vững, tự chủ
 
 ---
 
 **Open Liberation Lab**  
-> Tôn trọng sự sống nhỏ nhất trong đất. Giải phóng sức lao động lớn nhất của con người.
+> _Tôn trọng sự sống nhỏ nhất trong đất – Giải phóng sức lao động lớn nhất của con người_
