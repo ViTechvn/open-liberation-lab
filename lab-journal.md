@@ -1,5 +1,5 @@
 ## Ngày 26/7/2025: Nỗ lực kêu gọi
-Đã cất tiếng gọi nhiều lần, nhưng chỉ nghe lại tiếng vang của chính mình. Có vài người bạn tiếp tục chia sẻ dự án, thôi có còn hơn không. Lab này là mái nhà mình dựng lên bằng tất cả chân thành. Dù chưa ai ghé thăm, mình vẫn sẽ ở lại, chăm nom từng góc nhỏ, thắp sáng hy vọng bằng sự kiên trì. có mình ở đây với nó thì không thể gọi là không có thành viên nào được!
+Đã cất tiếng gọi nhiều lần, nhưng chỉ nghe lại tiếng vang của chính mình. Có vài người bạn tiếp tục chia sẻ dự án, thôi có còn hơn không. Lab này là mái nhà mình dựng lên bằng tất cả chân thành. Dù chưa ai ghé thăm, mình vẫn sẽ ở lại, chăm nom từng góc nhỏ, thắp sáng hy vọng bằng sự kiên trì. Có mình ở đây với nó thì không thể gọi là không có thành viên nào được!
 
 ## Ngày 25/7/2025: Khởi sự
 Lab của mình đã chào đời – vừa háo hức, vừa run run khi bắt đầu cất tiếng gọi đầu tiên. Liệu mình có đang làm đúng không? Chỉ có vài người share và hưởng ứng vì thân quen. Có ai cảm nhận được tinh thần mình muốn mang lại không?
