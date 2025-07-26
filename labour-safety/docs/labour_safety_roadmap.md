@@ -51,6 +51,7 @@ Phát triển các giải pháp công nghệ để hỗ trợ hoặc thay thế 
 - Hệ thống telesurgery hỗ trợ phẫu thuật từ xa ở vùng sâu vùng xa
 
 **Bạn hoàn toàn có thể đề xuất các hướng nghiên cứu mới**
+
 ---
 
 ## 🛠️ Công nghệ đề xuất
