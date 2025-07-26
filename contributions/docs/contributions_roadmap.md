@@ -39,7 +39,7 @@ Thư mục này chứa các đề tài, nghiên cứu, hoặc đóng góp thực
 ---
 
 ## 📌 Lưu ý
-- Các đề tài tại đây sẽ được xem xét **phân loại lại** hoặc giữ lại thư mục này để mang tính thảo khảo, làm nền tảng phục vụ các nghiên cứu chuyên sáu hơn.
+- Các đề tài tại đây sẽ được xem xét **phân loại lại** hoặc giữ lại thư mục này để mang tính tham khảo, làm nền tảng phục vụ các nghiên cứu chuyên sáu hơn.
 - Khuyến khích đóng góp thử nghiệm, sáng tạo, và liên ngành.
 
 > “Nhiều phát minh vĩ đại được sinh ra ở những giao điểm mà không ai ngờ tới.”
