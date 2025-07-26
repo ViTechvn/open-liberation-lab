@@ -37,7 +37,7 @@ Phát triển hệ sinh thái mã nguồn mở gồm thiết bị, mô hình và
 | Nông nghiệp tự vận hành (agroecology + AI)    | Tự động hóa toàn diện trên nền triết lý canh tác sinh thái – MIT Media Lab, INRAE                           |
 | Cảm biến đất chạy bằng vi sinh (microbial BEC)| Không dùng pin, tạo điện từ hệ vi sinh đất – TU Delft, NTU Singapore                                        |
 
-**Bạn hoàn toàn có thể đề xuất thêm hướng nghiên cứu mới, phù hợp với mục tiêu chung. Chúng tôi rất hoan nghênh**
+**Bạn hoàn toàn có thể đề xuất thêm hướng nghiên cứu mới, phù hợp với mục tiêu chung. Chúng tôi rất hoan nghênh!**
 
 ---
 
