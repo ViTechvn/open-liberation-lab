@@ -47,7 +47,7 @@ Repo được chia làm 3 trụ cột chính, kèm theo các thư mục bổ tr�
 📁 contributions/	(Tuỳ chọn)   **Đóng góp chưa phân loại rõ**
 
 Trong mỗi thư mục chính sẽ có một thư mục 📁 docs/	                    
-**Đây là nơi dành cho các tài liệu nền tảng, giải thích, hoặc hướng dẫn kỹ thuật phục vụ cộng đồng**
+**Bạn sẽ tìm thấy roadmap cụ thể cho từng lĩnh vực nghiên cứu tại đây 📁 docs/, ở đây cũng bao gồm các tài liệu nền tảng, giải thích, hoặc hướng dẫn kỹ thuật phục vụ cộng đồng**
 
 ---
 
