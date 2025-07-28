@@ -1,3 +1,7 @@
+### Ngày 28/7/2025: Có lẽ có hi vọng nào đó, đang nảy mầm?
+Hôm nay đã nhận được phản hồi của vài người về dự án, dù họ chưa tham gia hay xem xét kỹ nhưng tôi biết những điều tôi gửi đi vẫn có người đọc được và... hiểu được?
+Tiếp tục nghiên cứu của mình và đóng góp gì đó cho dự án thôi.
+
 ### Ngày 27/7/2025: 
 Vẫn là chuỗi ngày tiếp tục kêu gọi, từ thầy cô giảng viên, đến các cộng đồng Facebok hay cánh báo chí truyền thông cũng liên hệ. Thôi nghĩ ra được cách nào thì làm cách đó, biết đâu những hạt giống mình gieo sẽ nảy mầm ở đâu đó?
 
